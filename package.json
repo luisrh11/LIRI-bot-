@@ -1,0 +1,26 @@
+{
+  "name": "liri-bot-",
+  "version": "1.0.0",
+  "description": "liri bot application allows you to make calls to the spotify and OMDb apis to get info for bands and movies",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisrh11/LIRI-bot-.git"
+  },
+  "author": "Luis Hamburger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisrh11/LIRI-bot-/issues"
+  },
+  "homepage": "https://github.com/luisrh11/LIRI-bot-#readme"
+}
